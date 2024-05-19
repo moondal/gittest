@@ -1,0 +1,6 @@
+helm 공부
+1. deploy + server = template 
+2. 메타정보 + 기타정보
+1+2 = helm charts임
+
+
